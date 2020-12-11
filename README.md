@@ -5,10 +5,8 @@ I'm a Lancashire-based full-stack app and web app developer, specialising in mul
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamesPhillipsUK&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&line_height=28" />
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesPhillipsUK&layout=compact&langs_count=10&theme=vision-friendly-dark" />
-  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesPhillipsUK&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&line_height=28" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesPhillipsUK&layout=compact&langs_count=10&theme=vision-friendly-dark" />
   <p align="center">GitHub Readme Stats - courtesy of <a href="https://github.com/anuraghazra/github-readme-stats" title="anuraghazra/github-readme-stats on GitHub">Anurag Hazra</a>.</p>
 </div>
 
