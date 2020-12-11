@@ -1,6 +1,8 @@
-# Hi there 👋!  I'm Jesse!
+# Hi there, I'm Jesse! 👋
 
-I'm a Lancashire-based full-stack app and web app developer, specialising in multi-platform and data-driven applications.  I'm IT Director at [@TuxSoftLimited](https://github.com/TuxSoftLimited "Tuxsoft Limited on GitHub"), and I'm currently studying Software Engineering at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub").  My pronouns are they/them.
+I'm a Lancashire-based full-stack app and web app developer, specialising in multi-platform and data-driven applications.  I'm IT Director at [@TuxSoftLimited](https://github.com/TuxSoftLimited "Tuxsoft Limited on GitHub"), and I'm currently studying Software Engineering at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub").  
+
+My pronouns are they/them.
 
 ---
 
