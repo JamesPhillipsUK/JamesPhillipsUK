@@ -1,6 +1,6 @@
 # Hi there, I'm Jesse! 👋
 
-I'm a Lancashire-based full-stack app and web app developer, specialising in multi-platform and data-driven applications.  I'm IT Director at [@TuxSoftLimited](https://github.com/TuxSoftLimited "Tuxsoft Limited on GitHub"), and I'm a Computer Science PhD student at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub"), with a Bachelor's in Software Engineering.  My interests include Software Engineering and Natural Language processing.
+I'm a Lancashire-based full-stack app and web app developer, specialising in multi-platform and data-driven applications.  I'm a Computer Science PhD student at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub"), with a Bachelor's in Software Engineering.  My interests include Software Engineering and Natural Language processing.
 
 My pronouns are they/them.
 
