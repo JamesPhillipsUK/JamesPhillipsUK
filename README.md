@@ -1,8 +1,12 @@
 # Hi there, I'm Jesse! 👋
 
-I'm a Lancashire-based full-stack app and web app developer, specialising in multi-platform and data-driven applications.  I'm a Computer Science PhD student at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub"), with a Bachelor's in Software Engineering.  My interests include Software Engineering and Natural Language processing.
+Lancashire-based full-stack app and web app developer.  Computer Science PhD student at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub"), with a Bachelor's in Software Engineering.  My interests include Software Engineering and Natural Language Processing.
 
 My pronouns are they/them.
+
+## Publications
+
+[Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28) (Phillips et al., GEM 2022)
 
 ## What I'm doing on GitHub
 
@@ -14,7 +18,7 @@ My pronouns are they/them.
 
 ## Keep in touch
 
-<p align="center"><a href="https://www.linkedin.com/in/james-phillips-uk/" title="Find me on LinkedIn">LinkedIn</a> | <a href="https://jamesphillipsuk.com/" title="Visit my blog">Blog</a> | <a href="https://paypal.me/JamesPhillipsUK" title="Donate!">Donate on PayPal.me</a> | <a href="https://stackoverflow.com/users/8753614/jesse-phillips" title="Visit my Stack Overflow Profile">Stack Overflow</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/james-phillips-uk/" title="Find me on LinkedIn">LinkedIn</a> | <a href="https://blog.jessephillips.uk/" title="Visit my blog">Blog</a></p>
 
 <!--
 **JamesPhillipsUK/JamesPhillipsUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
