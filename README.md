@@ -7,6 +7,7 @@ My pronouns are they/them.
 ## Publications
 
 [Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28) (Phillips et al., GEM 2022)
+
 [LISAScore: Exploring Linear Sum Assignment on BERTScore](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_24) (Mander and Phillips., NLDB 2024)
 
 ## What I'm doing on GitHub
