@@ -16,11 +16,13 @@ My research code is available at: [@phillijm](https://github.com/phillijm).
 
 ## Publications
 
-[Metric-Oriented Pretraining of Neural Source Code Summarisation Transformers to Enable more Secure Software Development](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14814585053580938999) (Phillips et al., NLPAICS 2024)
+[Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development](https://aclanthology.org/2026.nlpaics-1.4/) (Phillips et al., NLPAICS 2026)
+
+[Metric-Oriented Pretraining of Neural Source Code Summarisation Transformers to Enable more Secure Software Development](https://aclanthology.org/2024.nlpaics-1.3/) (Phillips et al., NLPAICS 2024)
 
 [LISAScore: Exploring Linear Sum Assignment on BERTScore](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_24) (Mander and Phillips, NLDB 2024)
 
-[Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28) (Phillips et al., GEM 2022)
+[Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28/) (Phillips et al., GEM 2022)
 
 ## Skills
 
