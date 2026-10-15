@@ -2,7 +2,7 @@
 
 Lancashire-based full-stack developer.  Lover of well-written and well-documented code.  
 
-Computer Science PhD candidate at [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub"), with a Bachelor's in Software Engineering.
+Computer Science PhD, 2026 from [Lancaster University](https://github.com/lancaster-university "Lancaster University on GitHub"), with a Bachelor's in Software Engineering.
 
 My research interests include Source Code Summarisation, Natural Language Processing, and Software Engineering.
 
@@ -15,6 +15,8 @@ _My pronouns are they/them._
 My research code is available at: [@phillijm](https://github.com/phillijm).
 
 ## Publications
+
+[The Automated Generation of Source Code Summaries Using Natural Language Processing Techniques](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=k6MDHNsAAAAJ&citation_for_view=k6MDHNsAAAAJ:2osOgNQ5qMEC) (Phillips, 2026)
 
 [Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development](https://aclanthology.org/2026.nlpaics-1.4/) (Phillips et al., NLPAICS 2026)
 
@@ -32,7 +34,7 @@ My research code is available at: [@phillijm](https://github.com/phillijm).
     <br />
     <img src="https://skillicons.dev/icons?i=linux,apple,windows,bsd" />
     <br />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
   </a>
 </p>
 
